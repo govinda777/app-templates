@@ -1,12 +1,11 @@
 # [app-templates] - Como criar um app em 3 passos.
 
-![](./img/15.jpeg)
+<img src="./img/15.jpeg" height="100%" width="100%" alt="Unform" />
+
 
 Projeto de templates de apps com várias tecnologias.
 
 ## 1 - Instalação e configuração Android Studio 
-
-ANDROID STUDIO 4.1.3: Como instalar e Configurar Corretamente - Guia Completo : https://www.youtube.com/watch?v=3lx2oeZg-Ts
 
 | [<img src="https://img.youtube.com/vi/3lx2oeZg-Ts/0.jpg" width=50%><br><h3>ANDROID STUDIO 4.1.3: Como instalar e Configurar Corretamente - Guia Completo</h3>](https://www.youtube.com/watch?v=3lx2oeZg-Ts?govinda777) |
 | :---: |
@@ -92,7 +91,9 @@ ANDROID STUDIO 4.1.3: Como instalar e Configurar Corretamente - Guia Completo : 
 
 ## FeeDBack
 
-Tecnologia muito promissora, porem achei cuir por padrão retornar os 3 códigos, mas tambem, admito que estou aprendendo com o Framework.
+Tecnologia muito promissora, porem achei ruim, por padrão retornar os 3 códigos (web, ios e android). Ruim no sentido de administrar o código. 
+
+Mas tambem, admito que ainda estou aprendendo com o Framework.
 
 ## My Profile Resume
 
@@ -105,7 +106,7 @@ Tecnologia muito promissora, porem achei cuir por padrão retornar os 3 códigos
 <a href="https://github.com/govinda777?tab=followers">
 <img src="./imgs/sub.jpeg" height="70" width="140" alt="Unform" />
 </a>
-
+1111
 </p>
 
 [!["Buy Me A Coffee"](https://user-images.githubusercontent.com/1376749/120938564-50c59780-c6e1-11eb-814f-22a0399623c5.png)](https://www.buymeacoffee.com/govinda777)
