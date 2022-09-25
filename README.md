@@ -1,7 +1,22 @@
-# app-templates
+# [app-templates] - Como criar um app em 3 passos.
+
+![](./img/15.jpeg)
+
 Projeto de templates de apps com várias tecnologias.
 
-## Flutter como saber se estamos prontos ?
+## 1 - Instalação e configuração Android Studio 
+
+ANDROID STUDIO 4.1.3: Como instalar e Configurar Corretamente - Guia Completo : https://www.youtube.com/watch?v=3lx2oeZg-Ts
+
+| [<img src="https://img.youtube.com/vi/3lx2oeZg-Ts/0.jpg" width=50%><br><h3>ANDROID STUDIO 4.1.3: Como instalar e Configurar Corretamente - Guia Completo</h3>](https://www.youtube.com/watch?v=3lx2oeZg-Ts?govinda777) |
+| :---: |
+
+## 2 - Como instalar e configurar o Flutter.
+
+| [<img src="https://img.youtube.com/vi/yuyoorvL1Y4/0.jpg" width=50%><br><h3>Instalação e Configuração Flutter no Windows (Tutorial Flutter Para Iniciantes 2021)</h3>](https://www.youtube.com/watch?v=yuyoorvL1Y4?govinda777) |
+| :---: |
+
+## 3 -  [Flutter] Como saber se sua máquina está pronta ?
 
 ```flutter
 
@@ -66,6 +81,14 @@ flutter create app_temp
 * Repo course : Repo : https://github.com/mitesh77/Best-Flutter-UI-Templates/tree/master/best_flutter_ui_templates
 
 * Como criar um Projeto Flutter no Android Studio e VS Code : https://www.youtube.com/watch?v=t_fLik6Mjc4
+
+https://www.youtube.com/watch?v=oxeYeMHVLII
+
+Flutter Tutorial For Beginners In 1 Hour - 2022 : https://www.youtube.com/watch?v=C-fKAzdTrLU
+
+Instalação e Configuração Flutter no Windows Tutorial Flutter Para Iniciantes 2021 : https://www.youtube.com/watch?v=yuyoorvL1Y4
+
+ANDROID STUDIO 4.1.3: Como instalar e Configurar Corretamente - Guia Completo : https://www.youtube.com/watch?v=3lx2oeZg-Ts
 
 ## FeeDBack
 
