@@ -73,6 +73,8 @@ flutter create app_temp
 
 ## Links 
 
+* Flutter Tutorial For Beginners In 1 Hour - 2022 : https://www.youtube.com/watch?v=C-fKAzdTrLU
+
 * Dart Language : https://dartpad.dev/?
 
 * Flutter Tutorial :  https://www.youtube.com/watch?v=1ukSR1GRtMU
@@ -81,9 +83,8 @@ flutter create app_temp
 
 * Como criar um Projeto Flutter no Android Studio e VS Code : https://www.youtube.com/watch?v=t_fLik6Mjc4
 
-https://www.youtube.com/watch?v=oxeYeMHVLII
-
-Flutter Tutorial For Beginners In 1 Hour - 2022 : https://www.youtube.com/watch?v=C-fKAzdTrLU
+* Flutter BLoC Pattern Tutorial From Scratch
+: https://www.youtube.com/watch?v=oxeYeMHVLII
 
 Instalação e Configuração Flutter no Windows Tutorial Flutter Para Iniciantes 2021 : https://www.youtube.com/watch?v=yuyoorvL1Y4
 
